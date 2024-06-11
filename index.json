@@ -1,0 +1,15 @@
+{
+  "1.19": "release/150346d1c0b4acec0b4eb7f58b86e3ea1aa730f3",
+  "1.19.1": "release/fc8e22d42c0e4eb1899e2acf7e97eae917e1cb94",
+  "1.19.2": "release/8e8c9be5dc27802caba47053d4fdea328f7f89bd",
+  "1.19.3": "release/42366909cc612e76208d34bf1356f05a88e08a1d",
+  "1.19.4": "release/f14771b764f943c154d3a6fcb47694477e328148",
+
+  "1.20": "release/a4cd9a97400f7ecfe4dba23e427549ebc5815d66",
+  "1.20.1": "release/6c48521eed01fe2e8ecdadbd5ae348415f3c47da",
+  "1.20.2": "release/5c292ff7d3161977041116698e295083fd5ec8f5",
+  "1.20.3": "release/be76ecc174ea25580bdc9bf335481a5192d9f3b7",
+  "1.20.4": "release/be76ecc174ea25580bdc9bf335481a5192d9f3b7",
+  "1.20.5": "release/65b1468c44fbf34382716416b5c1a16d2949217a",
+  "1.20.6": "release/de46c8f33d7826eb83e8ef0e9f80dc1f08cb9498"
+}
